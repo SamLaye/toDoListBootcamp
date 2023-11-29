@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toDoListBootcamp/static/css/main.6a55cfcf.css",
+    "main.js": "/toDoListBootcamp/static/js/main.8b95a6e6.js",
+    "static/media/bootstrap-icons.woff?": "/toDoListBootcamp/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/toDoListBootcamp/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/toDoListBootcamp/index.html",
+    "main.6a55cfcf.css.map": "/toDoListBootcamp/static/css/main.6a55cfcf.css.map",
+    "main.8b95a6e6.js.map": "/toDoListBootcamp/static/js/main.8b95a6e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a55cfcf.css",
+    "static/js/main.8b95a6e6.js"
+  ]
+}
